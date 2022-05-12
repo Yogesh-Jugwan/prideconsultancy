@@ -1,0 +1,22 @@
+[
+    {   "id":"1",
+        "svg":"/assets/image/svgIcons/AndroidSvg.svg",
+        "title":"Android App Development",
+        "discription":"The number of android users is increasing day by day and so is the need for Android apps. Our team of highly passionate professionals are committed to deliver the finest quality of Android apps for smartphones and tablet. We channel your ideas into a digitized custom Android app that your end users will enjoy using. Get your app developed today to help take your business to the next level or bring your ideas to life.",
+        "link":"/"
+    },
+    {
+        "id":"2",
+        "svg":"/assets/image/svgIcons/AndroidSvg.svg",
+        "title":"Android App Development",
+        "discription":"The number of android users is increasing day by day and so is the need for Android apps. Our team of highly passionate professionals are committed to deliver the finest quality of Android apps for smartphones and tablet. We channel your ideas into a digitized custom Android app that your end users will enjoy using. Get your app developed today to help take your business to the next level or bring your ideas to life.",
+        "link":"/"
+    },
+    {
+        "id":"3",
+        "svg":"/assets/image/svgIcons/AndroidSvg.svg",
+        "title":"Android App Development",
+        "discription":"The number of android users is increasing day by day and so is the need for Android apps. Our team of highly passionate professionals are committed to deliver the finest quality of Android apps for smartphones and tablet. We channel your ideas into a digitized custom Android app that your end users will enjoy using. Get your app developed today to help take your business to the next level or bring your ideas to life.",
+        "link":"/"
+    }
+]

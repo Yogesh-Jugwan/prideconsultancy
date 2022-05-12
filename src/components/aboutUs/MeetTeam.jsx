@@ -8,9 +8,9 @@ const MeetTeam = () => {
         <div className="col-lg-7 col-md-12 col-sm-12 col-12 order-lg-1 mb-4 m-lg-0">
           <div className="meet-the-team-content">
             <h2>Meet the Team</h2>
-            <p>Teams produce great work. Pride believes in this adage. Our team of mobile app developers, web developers and creative designers are bonded together by an invisible thread. The thread of team camaraderie which helps us get work done against all odds.</p>
-            <p>We have professionals from all backgrounds and experience levels. Our diverse team helps bring to the table a unique value that helps us drive innovation.</p>
-            <p>When we say we are a team that does it all, we mean it. Give us a shot and you will know what we mean.</p>
+            <p>Our team is well experienced, diverse, and experts in their respective domains. We are proud of our creative work and joint teamwork. We make sure that your product is made by experts in web designing and web development, none of us is an innovator in this field. </p>
+            <p>We take pride in providing cost-effective solutions that meet our client's overall business development needs and give value to their scope.</p>
+            <p>Our exposure to companies from many different sectors has strengthened us and we have become the preferred consulting partner for some of the leading business houses in India and globally. We provide high-quality works that comply with global standards.</p>
             <a href="/contact" className="btn btn-custome waves-effect waves-light">Talk to Our Expert Now</a>
           </div>
         </div>

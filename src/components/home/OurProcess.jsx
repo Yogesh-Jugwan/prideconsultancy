@@ -10,9 +10,9 @@ const OurProcess = (props) => {
   <div className="container">
     <div className="title">
       <span>Our Process</span>
-      <h2>From Sprint To Launch, Agility In Action</h2>
-      <p>Intelivita follow the agile project management process to get things done faster and with maximum quality. We break down the entire mobile app development project into several phases, each phase dedicated to taking the project further
-        to completion.</p>
+      <p>We begin our strategy by comprehending your dreams. Straightforward objectives allow our team to concentrate on what will deliver the most effective and drive your company ahead.
+Once your new website is up and operating, it needs to obtain what we put out to achieve established essentials.
+</p>
     </div>
     <div className="row justify-content-center d-none d-lg-flex">
       <div className="col-lg-3 process-items wow fadeIn" data-wow-duration="0.2s" data-wow-delay={0}>
@@ -21,11 +21,11 @@ const OurProcess = (props) => {
           <div className="process-box-icon">
             <div dangerouslySetInnerHTML={createMarkup(process[0].svg)} />
           </div>
-          <h4>01 Discover</h4>
+          <h4>01 Determination </h4>
           <ul>
-            <li><i className="fas fa-chevron-right" />Requirement gathering</li>
-            <li><i className="fas fa-chevron-right" />Timeline planning</li>
-            <li><i className="fas fa-chevron-right" />Commercials</li>
+            <li><i className="fas fa-chevron-right" />Understand the client's requirements.</li>
+            <li><i className="fas fa-chevron-right" />Timeline planning.</li>
+            <li><i className="fas fa-chevron-right" />Commercials.</li>
           </ul>
         </div>
       </div>
@@ -35,11 +35,11 @@ const OurProcess = (props) => {
           <div className="process-box-icon">
           <div dangerouslySetInnerHTML={createMarkup(process[0].svg1)} />
           </div>
-          <h4>02 UI/UX Design</h4>
+          <h4>02 UI/UX Design </h4>
           <ul>
-            <li><i className="fas fa-chevron-right" />Wireframe Designing</li>
+            <li><i className="fas fa-chevron-right" />Pen-Sketch Design</li>
             <li><i className="fas fa-chevron-right" />Prototyping</li>
-            <li><i className="fas fa-chevron-right" />Brand styling &amp; preset creation</li>
+            <li><i className="fas fa-chevron-right" />Brand produce &amp; pre-established design</li>
           </ul>
         </div>
       </div>
@@ -49,11 +49,11 @@ const OurProcess = (props) => {
           <div className="process-box-icon">
           <div dangerouslySetInnerHTML={createMarkup(process[0].svg2)} />
           </div>
-          <h4>03 Prototypes</h4>
+          <h4>03 Prototypes </h4>
           <ul>
-            <li><i className="fas fa-chevron-right" />Low-fidelity prototyping</li>
-            <li><i className="fas fa-chevron-right" />High-Fidelity prototyping</li>
-            <li><i className="fas fa-chevron-right" />Applying design thinking</li>
+            <li><i className="fas fa-chevron-right" />Low - Correspondence Prototyping.</li>
+            <li><i className="fas fa-chevron-right" />High-Allegiance Prototyping.</li>
+            <li><i className="fas fa-chevron-right" />Applying design Sketch</li>
           </ul>
         </div>
       </div>
@@ -65,9 +65,9 @@ const OurProcess = (props) => {
           </div>
           <h4>04 Development</h4>
           <ul>
-            <li><i className="fas fa-chevron-right" />Technology selection</li>
+            <li><i className="fas fa-chevron-right" />Platform choice</li>
             <li><i className="fas fa-chevron-right" />API</li>
-            <li><i className="fas fa-chevron-right" />Integrations agile development in action</li>
+            <li><i className="fas fa-chevron-right" />Combination of Agile Method</li>
           </ul>
         </div>
       </div>
@@ -107,7 +107,7 @@ const OurProcess = (props) => {
           <div className="process-box-icon">
           <div dangerouslySetInnerHTML={createMarkup(process[0].svg6)} />
           </div>
-          <h4>07 Support &amp; Maintenance</h4>
+          <h4>07 Support  &amp; Maintenance</h4>
           <ul>
             <li><i className="fas fa-chevron-right" />Troubleshooting</li>
             <li><i className="fas fa-chevron-right" />24/7 support</li>

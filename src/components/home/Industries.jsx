@@ -96,7 +96,6 @@ const Industries = () => {
         </div>
         <div className="px-5 app-service-tab mt-4">
           <Slider {...settings}>
-            {/* <div style={{display:'none !important'}}></div> */}
             <div
               className={`${
                 toggle === 0 ? "slick-active slick-current" : "item"

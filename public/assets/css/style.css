@@ -29568,7 +29568,7 @@ main {
     -moz-transition: all .3s ease-in-out;
     -o-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out;
-    min-height: 405px
+    /* min-height: 405px */
 }
 
 .mission-n-vision-box:hover {

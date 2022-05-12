@@ -1,7 +1,8 @@
 import React from 'react'
 const AndroidSvg = () => {
   return (
-    <div><svg viewBox="0 0 32 32" style={{ enableBackground: 'new 0 0 32 32' }} xmlSpace="preserve">
+    <div>
+      <svg viewBox="0 0 32 32" style={{ enableBackground: 'new 0 0 32 32' }} xmlSpace="preserve">
       <path fill="#202122" d="M22.3,3.6c-0.4-0.4-0.8-0.8-1.4-1.1l0.8-1.7c0.1-0.3,0-0.6-0.3-0.7c-0.3-0.1-0.6,0-0.7,0.3L20,1.9
                                 c-1-0.5-2.3-0.9-3.9-0.9c-1.6,0-3,0.3-4.1,0.9l-0.8-1.6C11.1,0,10.8-0.1,10.5,0c-0.3,0.1-0.4,0.4-0.3,0.7l0.8,1.7
                                 C8.8,3.9,7.7,6.2,7.6,7.9L7.5,8.5h16.9l-0.1-0.6C24.3,6.8,23.7,5.1,22.3,3.6z M8.7,7.5c0.5-2.3,2.7-5.3,7.4-5.3
@@ -31,7 +32,8 @@ const FlutterSvg = () => {
 }
 const CrossPlatformSvg = () => {
   return (
-    <div> <svg x="0px" y="0px" viewBox="0 0 80 80" style={{ enableBackground: 'new 0 0 80 80' }} xmlSpace="preserve">
+    <div> 
+      <svg x="0px" y="0px" viewBox="0 0 80 80" style={{ enableBackground: 'new 0 0 80 80' }} xmlSpace="preserve">
     <path  d="M27.5,61.2h5v-2.5h-30c-1.1,0-2.5-1.5-2.5-2.5V15.8c0-1.2,0.9-2,2-2h63c1.1,0,2.5,1.4,2.5,2.5v7.5h10
 c1.1,0,2.5,2,2.5,3.1v37.4c-0.2,0.9-1.1,1.8-2.1,1.8H58.5h-5.8h-7.8c-1.1,0-2.3-1.4-2.3-2.5v-5H35v2.5h5v2.5H27.5
 C27.5,63.7,27.2,61.2,27.5,61.2z M45,63.7h12.5V38.8H45V63.7z M65,16.3H2.5v39.9h40V38.8c0-1.1,1.4-2.5,2.5-2.5h5v-10
